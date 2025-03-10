@@ -1,3 +1,13 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+# Créez un nouveau fichier nommé .gitignore à la racine de votre projet
+# Contenu du fichier :
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild
